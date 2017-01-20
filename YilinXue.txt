@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Yilin Xue
+=======
+Yujin Gu
+3jijijij
+>>>>>>> 5b979e0cbade7704cd1de44c779b5b103ac8d366
